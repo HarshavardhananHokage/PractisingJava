@@ -1,4 +1,4 @@
-package com.harsh.chapter3.selections;
+package com.harsh.chapter03;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;

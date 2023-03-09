@@ -1,4 +1,4 @@
-package com.harsh.chapter3.selections;
+package com.harsh.chapter03;
 
 import java.util.Random;
 
